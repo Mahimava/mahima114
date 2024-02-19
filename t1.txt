@@ -1,7 +1,5 @@
-hi hello
-good morning
+hi hello good morning
 happy morning
 good morning
 hurray ......!
-hello
-mahiama
+hello mahiama
