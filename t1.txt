@@ -1,5 +1,17 @@
 hi hello
+<<<<<<< HEAD
+=======
+good morning
+<<<<<<< HEAD
+>>>>>>> 470999c (m1.txt modified in dev1)
 
 happy morning
 good morning
 hurray ......!
+<<<<<<< HEAD
+=======
+(updating)
+=======
+hurray ......!
+>>>>>>> 07be956 (updating)
+>>>>>>> 470999c (m1.txt modified in dev1)
