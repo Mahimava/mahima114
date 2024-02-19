@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hi hello
 <<<<<<< HEAD
 =======
@@ -15,3 +16,7 @@ hurray ......!
 hurray ......!
 >>>>>>> 07be956 (updating)
 >>>>>>> 470999c (m1.txt modified in dev1)
+=======
+hello
+mahiama
+>>>>>>> 611014c408c72f2b1e537fa7b69f18656ed7a6ac
